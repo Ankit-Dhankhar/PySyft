@@ -1,6 +1,7 @@
 black>=10.3b0
 bumpversion>=0.5.3
 coverage>=4.5.3
+codecov>=4.4.3
 ipykernel>=5.1.0
 pre-commit>=1.16.1
 pyopenssl>=19.0.0

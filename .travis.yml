@@ -43,3 +43,5 @@ notifications:
   on_success: change
   # `always` will be the setting below once code changes slow down
   on_failure: change
+after_success:
+  - codecov
